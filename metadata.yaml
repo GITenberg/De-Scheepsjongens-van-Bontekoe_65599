@@ -1,11 +1,16 @@
 _repo: De-Scheepsjongens-van-Bontekoe_65599
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65599-h/images/frontcover.jpg
 creator:
   author:
     agent_name: Fabricius, Johan
     gutenberg_agent_id: '53422'
     url: http://www.gutenberg.org/2009/agents/53422
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65599#De-Scheepsjongens-van-Bontekoe
 gutenberg_issued: '2021-06-12'
 gutenberg_type: Text
 identifiers:
